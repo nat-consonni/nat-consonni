@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I’m Nat 👋
 
-<!--
-**nat-consonni/nat-consonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Product Designer** specialized in **SaaS B2B and enterprise UX**.  
+I focus on **design systems, UX strategy, and data-informed design**, and I love bridging design and front-end development (React, Tailwind, Git).
 
-Here are some ideas to get you started:
+- 🌍 Remote-first; worked with teams across the U.S., Europe, and LatAm  
+- 🧩 Design → Dev handoff that engineers actually like  
+- 🧪 Research, analytics, and A/B testing to guide decisions  
+- 🧭 Currently open to full-time remote roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links
+- Portfolio: **https://nat-consonni.com**
+- LinkedIn: **https://linkedin.com/in/nat-consonni**
+- Email: **nat.consonni@gmail.com**
+
+---
+
+## 🛠 Tooling
+
+**Design & Research:** Figma / FigJam · FullStory · Adobe XD  
+**Frontend (learning & practicing):** React · Next.js · Tailwind · HTML/CSS · JavaScript · Git/GitHub  
+**Collaboration:** Jira · Confluence · Slack · Loom · Google Meet/Zoom
+
+---
+
+## ✨ What I care about
+Design systems that scale • Clear, accessible UI • Smooth designer↔developer workflows • Thoughtful motion and micro-interactions • Shipping with intention
+
