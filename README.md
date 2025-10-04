@@ -15,7 +15,7 @@ I focus on **design systems, UX strategy, and data-informed design**, and I love
 
 ---
 
-## 🛠 Tooling
+## 🛠 Tools
 
 **Design & Research:** Figma / FigJam · FullStory · Adobe XD  
 **Frontend (learning & practicing):** React · Next.js · Tailwind · HTML/CSS · JavaScript · Git/GitHub  
